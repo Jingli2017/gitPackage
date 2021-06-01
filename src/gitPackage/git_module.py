@@ -1,3 +1,3 @@
 print "this is an updated git module"
 
-print "add another line from git"
+print "this is release branch line from git"
