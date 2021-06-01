@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/gitPackage/__init__.py
+src/gitPackage/git_module.py
+src/git_package.egg-info/PKG-INFO
+src/git_package.egg-info/SOURCES.txt
+src/git_package.egg-info/dependency_links.txt
+src/git_package.egg-info/top_level.txt
